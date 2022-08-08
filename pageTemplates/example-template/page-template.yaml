@@ -14,4 +14,4 @@ configuration:
         x2: 11
         y2: 1
 
-  templatePath: page.ftl
+templatePath: page.ftl
