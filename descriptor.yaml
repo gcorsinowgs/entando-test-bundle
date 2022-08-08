@@ -1,0 +1,7 @@
+code: test_bundle
+description: Questo è un bundle di entando
+
+components:
+
+  pageModels:
+    - pageTemplates/example-template/page-template.yaml
